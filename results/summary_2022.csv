@@ -1,0 +1,35 @@
+statistic,value,unit
+industries in sample,333.0,
+shipments in sample,6.772,trillion USD
+"median rival scale, leader plant",1.88,% of national shipments
+"90th percentile rival scale, leader plant",6.47,% of national shipments
+"industries with rival scale >= 15% (paper's example), leader plant",2.0,
+"industries with rival scale >= 1/3 (pays with full compensation), leader plant",0.0,
+"industries measured, leader plant",333.0,
+"median rival scale, midpoint plant",0.89,% of national shipments
+"90th percentile rival scale, midpoint plant",3.33,% of national shipments
+"industries with rival scale >= 15% (paper's example), midpoint plant",2.0,
+"industries with rival scale >= 1/3 (pays with full compensation), midpoint plant",0.0,
+"industries measured, midpoint plant",317.0,
+"median rival scale, largest firm, upper bound",20.96,% of national shipments
+"90th percentile rival scale, largest firm, upper bound",34.67,% of national shipments
+"industries with rival scale >= 15% (paper's example), largest firm, upper bound",212.0,
+"industries with rival scale >= 1/3 (pays with full compensation), largest firm, upper bound",32.0,
+"industries measured, largest firm, upper bound",261.0,
+median share of demand to lock up (leader plant),98.1,%
+"median customers to sign, of 100 (leader plant)",99.0,
+industries where lock-up share <= 40%,0.0,
+industries where lock-up share <= 50%,0.0,
+"industries where exclusion pays with full compensation, linear demand",0.0,
+"industries where exclusion pays with full compensation, CES demand at Census margin",0.0,
+median Census price-cost margin,33.6,%
+"median profit-to-loss ratio, CES at Census margin",0.533,
+median customers needed for one-at-a-time offers to exclude,160.0,
+25th percentile customers needed,82.0,
+75th percentile customers needed,390.0,
+"industries needing more than 1,000 customers",29.0,
+"shipments share needing more than 1,000 customers",14.3,%
+median customers needed for one-at-a-time offers to exclude at zero cost,213.0,
+"25th percentile customers needed, zero cost",109.0,
+"75th percentile customers needed, zero cost",488.0,
+"industries needing more than 1,000 customers, zero cost",29.0,

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Unzipped Census files (the committed zips are read directly)
+data/raw/*.dat
+data/raw/*.txt
+
+# Secrets
+*.key
+census_key*.txt
+
+# OS
+.DS_Store

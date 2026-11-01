@@ -1,0 +1,2 @@
+cases,mean_percentile,mean_percentile_if_random,p_value_one_sided,draws,eaton_open_share_2003_pct,eaton_industry_lock_up_needed_pct
+4,61.6,50.1,0.218,200000,15.0,98.6

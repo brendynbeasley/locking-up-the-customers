@@ -1,0 +1,11 @@
+quantity,computed,paper
+"Abstract: customers the incumbent must sign (N=100, MES=15)",86.0,86
+Sec. IV: monopoly profit from all customers (N*pi),1000.0,"1,000"
+Sec. IV: cost of paying N* customers in full (N* X*),1260.0,"1,260"
+Sec. IV: most customers worth paying in full (floor(N pi / X*)),71.0,71
+Sec. IV: cost of paying 71 customers,994.0,994
+Sec. IV: sequential offers exclude? (1 = yes),1.0,yes
+Sec. IV: total paid under sequential offers,0.0,0
+"Simultaneous offers exclude for sure? (N* X* <= N pi, 1 = yes)",0.0,no (two equilibria)
+Profit-to-loss ratio in the example (pi / X*),0.7142857142857143,10/14
+"Profit-to-loss ratio, linear demand",0.6666666666666666,derived
